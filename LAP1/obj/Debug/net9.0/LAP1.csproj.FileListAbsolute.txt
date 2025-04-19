@@ -1,0 +1,14 @@
+D:\Visual Studio tim\LAP\LAP1\bin\Debug\net9.0\LAP1.exe
+D:\Visual Studio tim\LAP\LAP1\bin\Debug\net9.0\LAP1.deps.json
+D:\Visual Studio tim\LAP\LAP1\bin\Debug\net9.0\LAP1.runtimeconfig.json
+D:\Visual Studio tim\LAP\LAP1\bin\Debug\net9.0\LAP1.dll
+D:\Visual Studio tim\LAP\LAP1\bin\Debug\net9.0\LAP1.pdb
+D:\Visual Studio tim\LAP\LAP1\obj\Debug\net9.0\LAP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio tim\LAP\LAP1\obj\Debug\net9.0\LAP1.AssemblyInfoInputs.cache
+D:\Visual Studio tim\LAP\LAP1\obj\Debug\net9.0\LAP1.AssemblyInfo.cs
+D:\Visual Studio tim\LAP\LAP1\obj\Debug\net9.0\LAP1.csproj.CoreCompileInputs.cache
+D:\Visual Studio tim\LAP\LAP1\obj\Debug\net9.0\LAP1.dll
+D:\Visual Studio tim\LAP\LAP1\obj\Debug\net9.0\refint\LAP1.dll
+D:\Visual Studio tim\LAP\LAP1\obj\Debug\net9.0\LAP1.pdb
+D:\Visual Studio tim\LAP\LAP1\obj\Debug\net9.0\LAP1.genruntimeconfig.cache
+D:\Visual Studio tim\LAP\LAP1\obj\Debug\net9.0\ref\LAP1.dll
